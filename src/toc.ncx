@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <title>Table of Contents</title>
+  </head>
+  <docTitle>
+    <text>Graduation: The End of Illusions</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np1" playOrder="1">
+      <navLabel>
+        <text>Author’s Note</text>
+      </navLabel>
+      <content src="authors-note.xhtml"/>
+    </navPoint>
+    <navPoint id="np2" playOrder="2">
+      <navLabel>
+        <text>Foreword</text>
+      </navLabel>
+      <content src="foreword.xhtml"/>
+    </navPoint>
+    <navPoint id="np3" playOrder="3">
+      <navLabel>
+        <text>4th January, 1991</text>
+      </navLabel>
+      <content src="1991-1-4.xhtml"/>
+    </navPoint>
+    <navPoint id="np4" playOrder="4">
+      <navLabel>
+        <text>5th January, 1991</text>
+      </navLabel>
+      <content src="1991-1-5.xhtml"/>
+    </navPoint>
+    <navPoint id="np5" playOrder="5">
+      <navLabel>
+        <text>14th January, 1991</text>
+      </navLabel>
+      <content src="1991-1-14.xhtml"/>
+    </navPoint>
+    <navPoint id="np6" playOrder="6">
+      <navLabel>
+        <text>15th January, 1991</text>
+      </navLabel>
+      <content src="1991-1-15.xhtml"/>
+    </navPoint>
+    <navPoint id="np7" playOrder="7">
+      <navLabel>
+        <text>16th January, 1991</text>
+      </navLabel>
+      <content src="1991-1-16.xhtml"/>
+    </navPoint>
+    <navPoint id="np8" playOrder="8">
+      <navLabel>
+        <text>18th January, 1991</text>
+      </navLabel>
+      <content src="1991-1-18.xhtml"/>
+    </navPoint>
+    <navPoint id="np9" playOrder="9">
+      <navLabel>
+        <text>20th January, 1991</text>
+      </navLabel>
+      <content src="1991-1-20.xhtml"/>
+    </navPoint>
+    <navPoint id="np10" playOrder="10">
+      <navLabel>
+        <text>25th January, 1991</text>
+      </navLabel>
+      <content src="1991-1-25.xhtml"/>
+    </navPoint>
+    <navPoint id="np11" playOrder="11">
+      <navLabel>
+        <text>27th January, 1991</text>
+      </navLabel>
+      <content src="1991-1-27.xhtml"/>
+    </navPoint>
+    <navPoint id="np12" playOrder="12">
+      <navLabel>
+        <text>2nd February, 1991</text>
+      </navLabel>
+      <content src="1991-2-2.xhtml"/>
+    </navPoint>
+    <navPoint id="np13" playOrder="13">
+      <navLabel>
+        <text>5th February, 1991</text>
+      </navLabel>
+      <content src="1991-2-5.xhtml"/>
+    </navPoint>
+    <navPoint id="np14" playOrder="14">
+      <navLabel>
+        <text>6th February, 1991</text>
+      </navLabel>
+      <content src="1991-2-6.xhtml"/>
+    </navPoint>
+    <navPoint id="np15" playOrder="15">
+      <navLabel>
+        <text>12th February, 1991</text>
+      </navLabel>
+      <content src="1991-2-12.xhtml"/>
+    </navPoint>
+    <navPoint id="np16" playOrder="16">
+      <navLabel>
+        <text>13th February, 1991</text>
+      </navLabel>
+      <content src="1991-2-13.xhtml"/>
+    </navPoint>
+    <navPoint id="np17" playOrder="17">
+      <navLabel>
+        <text>14th February, 1991</text>
+      </navLabel>
+      <content src="1991-2-14.xhtml"/>
+    </navPoint>
+    <navPoint id="np18" playOrder="18">
+      <navLabel>
+        <text>20th February, 1991</text>
+      </navLabel>
+      <content src="1991-2-20.xhtml"/>
+    </navPoint>
+    <navPoint id="np19" playOrder="19">
+      <navLabel>
+        <text>25th February, 1991</text>
+      </navLabel>
+      <content src="1991-2-25.xhtml"/>
+    </navPoint>
+    <navPoint id="np20" playOrder="20">
+      <navLabel>
+        <text>2nd March, 1991</text>
+      </navLabel>
+      <content src="1991-3-2.xhtml"/>
+    </navPoint>
+    <navPoint id="np21" playOrder="21">
+      <navLabel>
+        <text>8th March, 1991</text>
+      </navLabel>
+      <content src="1991-3-8.xhtml"/>
+    </navPoint>
+    <navPoint id="np22" playOrder="22">
+      <navLabel>
+        <text>14th March, 1991</text>
+      </navLabel>
+      <content src="1991-3-14.xhtml"/>
+    </navPoint>
+    <navPoint id="np23" playOrder="23">
+      <navLabel>
+        <text>19th March, 1991</text>
+      </navLabel>
+      <content src="1991-3-19.xhtml"/>
+    </navPoint>
+    <navPoint id="np24" playOrder="24">
+      <navLabel>
+        <text>20th March, 1991</text>
+      </navLabel>
+      <content src="1991-3-20.xhtml"/>
+    </navPoint>
+    <navPoint id="np25" playOrder="25">
+      <navLabel>
+        <text>21st March, 1991</text>
+      </navLabel>
+      <content src="1991-3-21.xhtml"/>
+    </navPoint>
+    <navPoint id="np26" playOrder="26">
+      <navLabel>
+        <text>22nd March, 1991</text>
+      </navLabel>
+      <content src="1991-3-22.xhtml"/>
+    </navPoint>
+    <navPoint id="np27" playOrder="27">
+      <navLabel>
+        <text>25th March, 1991</text>
+      </navLabel>
+      <content src="1991-3-25.xhtml"/>
+    </navPoint>
+    <navPoint id="np28" playOrder="28">
+      <navLabel>
+        <text>29th March, 1991</text>
+      </navLabel>
+      <content src="1991-3-29.xhtml"/>
+    </navPoint>
+    <navPoint id="np29" playOrder="29">
+      <navLabel>
+        <text>Endnotes</text>
+      </navLabel>
+      <content src="endnotes.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

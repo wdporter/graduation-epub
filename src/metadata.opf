@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier opf:scheme="uuid" id="uuid_id">5babb791-18b7-4115-b4e1-93ea49a0df0f</dc:identifier>
+    <dc:title>Graduation: The End of Illusions</dc:title>
+    <dc:creator opf:file-as="Raj aka Jesus" opf:role="aut">Raj aka Jesus</dc:creator>
+    <dc:contributor opf:file-as="Porter, W. David" opf:role="bkp">David Porter</dc:contributor>
+    <dc:language>eng</dc:language>
+  </metadata>
+  <manifest>
+    <item href="1991-1-4.xhtml" id="1991-1-4" media-type="application/xhtml+xml" />
+    <item href="1991-1-5.xhtml" id="1991-1-5" media-type="application/xhtml+xml" />
+    <item href="1991-1-14.xhtml" id="1991-1-14" media-type="application/xhtml+xml" />
+    <item href="1991-1-15.xhtml" id="1991-1-15" media-type="application/xhtml+xml" />
+    <item href="1991-1-16.xhtml" id="1991-1-16" media-type="application/xhtml+xml" />
+    <item href="1991-1-18.xhtml" id="1991-1-18" media-type="application/xhtml+xml" />
+    <item href="1991-1-20.xhtml" id="1991-1-20" media-type="application/xhtml+xml" />
+    <item href="1991-1-25.xhtml" id="1991-1-25" media-type="application/xhtml+xml" />
+    <item href="1991-1-27.xhtml" id="1991-1-27" media-type="application/xhtml+xml" />
+    <item href="1991-2-2.xhtml" id="1991-2-2" media-type="application/xhtml+xml" />
+    <item href="1991-2-5.xhtml" id="1991-2-5" media-type="application/xhtml+xml" />
+    <item href="1991-2-6.xhtml" id="1991-2-6" media-type="application/xhtml+xml" />
+    <item href="1991-2-12.xhtml" id="1991-2-12" media-type="application/xhtml+xml" />
+    <item href="1991-2-13.xhtml" id="1991-2-13" media-type="application/xhtml+xml" />
+    <item href="1991-2-14.xhtml" id="1991-2-14" media-type="application/xhtml+xml" />
+    <item href="1991-2-20.xhtml" id="1991-2-20" media-type="application/xhtml+xml" />
+    <item href="1991-2-25.xhtml" id="1991-2-25" media-type="application/xhtml+xml" />
+    <item href="1991-3-2.xhtml" id="1991-3-2" media-type="application/xhtml+xml" />
+    <item href="1991-3-8.xhtml" id="1991-3-8" media-type="application/xhtml+xml" />
+    <item href="1991-3-14.xhtml" id="1991-3-14" media-type="application/xhtml+xml" />
+    <item href="1991-3-19.xhtml" id="1991-3-19" media-type="application/xhtml+xml" />
+    <item href="1991-3-20.xhtml" id="1991-3-20" media-type="application/xhtml+xml" />
+    <item href="1991-3-21.xhtml" id="1991-3-21" media-type="application/xhtml+xml" />
+    <item href="1991-3-22.xhtml" id="1991-3-22" media-type="application/xhtml+xml" />
+    <item href="1991-3-25.xhtml" id="1991-3-25" media-type="application/xhtml+xml" />
+    <item href="1991-3-29.xhtml" id="1991-3-29" media-type="application/xhtml+xml" />
+    <item href="authors-note.xhtml" id="authors-note" media-type="application/xhtml+xml" />
+    <item href="endnotes.xhtml" id="endnotes" media-type="application/xhtml+xml" />
+    <item href="foreword.xhtml" id="foreword" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="authors-note" />
+    <itemref idref="foreword" />
+    <itemref idref="1991-1-4" />
+    <itemref idref="1991-1-5" />
+    <itemref idref="1991-1-14" />
+    <itemref idref="1991-1-15" />
+    <itemref idref="1991-1-16" />
+    <itemref idref="1991-1-18" />
+    <itemref idref="1991-1-20" />
+    <itemref idref="1991-1-25" />
+    <itemref idref="1991-1-27" />
+    <itemref idref="1991-2-2" />
+    <itemref idref="1991-2-5" />
+    <itemref idref="1991-2-6" />
+    <itemref idref="1991-2-12" />
+    <itemref idref="1991-2-13" />
+    <itemref idref="1991-2-14" />
+    <itemref idref="1991-2-20" />
+    <itemref idref="1991-2-25" />
+    <itemref idref="1991-3-2" />
+    <itemref idref="1991-3-8" />
+    <itemref idref="1991-3-14" />
+    <itemref idref="1991-3-19" />
+    <itemref idref="1991-3-20" />
+    <itemref idref="1991-3-21" />
+    <itemref idref="1991-3-22" />
+    <itemref idref="1991-3-25" />
+    <itemref idref="1991-3-29" />
+    <itemref idref="endnotes" />
+  </spine>
+  <guide/>
+</package>
